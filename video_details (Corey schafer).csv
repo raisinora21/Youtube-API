@@ -1,0 +1,234 @@
+,Title,Published_date,Views,Likes,Favorite,Comments,Month
+0,How to Use ChatGPT as a Powerful Tool for Programming,21-05-2023,270729,7564,0,436,May
+1,Python Tutorial: Simulate the Powerball Lottery Using Python,09-01-2023,136408,4257,0,772,Jan
+2,Python YouTube API Tutorial: Using OAuth to Access User Accounts,10-09-2020,138854,2661,0,351,Sep
+3,Python YouTube API Tutorial: Sort a Playlist by Most Popular Videos,31-07-2020,45716,1099,0,129,Jul
+4,Python YouTube API Tutorial: Calculating the Duration of a Playlist,10-06-2020,55877,1598,0,177,Jun
+5,Python YouTube API Tutorial: Getting Started - Creating an API Key and Querying the API,29-05-2020,199283,5634,0,329,May
+6,Python Tutorial: Real World Example - Using Patreon API and Pillow to Automate Image Creation,11-05-2020,39437,924,0,87,May
+7,"Python Pandas Tutorial (Part 11): Reading/Writing Data to Different Sources - Excel, JSON, SQL, Etc",01-04-2020,163366,4284,0,316,Apr
+8,"Live Stream - Chat, Q&A, Brews, and Coding",23-03-2020,75957,2888,0,261,Mar
+9,Python Pandas Tutorial (Part 10): Working with Dates and Time Series Data,17-03-2020,289372,7161,0,374,Mar
+10,Python Pandas Tutorial (Part 9): Cleaning Data - Casting Datatypes and Handling Missing Values,24-02-2020,211193,5427,0,172,Feb
+11,Python Pandas Tutorial (Part 8): Grouping and Aggregating - Analyzing and Exploring Your Data,14-02-2020,390170,9191,0,667,Feb
+12,Python Pandas Tutorial (Part 7): Sorting Data,06-02-2020,166200,4992,0,174,Feb
+13,Python Pandas Tutorial (Part 6): Add/Remove Rows and Columns From DataFrames,01-02-2020,256105,5726,0,220,Feb
+14,Python Pandas Tutorial (Part 5): Updating Rows and Columns - Modifying Data Within DataFrames,24-01-2020,360430,8354,0,324,Jan
+15,Python Pandas Tutorial (Part 4): Filtering - Using Conditionals to Filter Rows and Columns,17-01-2020,404898,9842,0,296,Jan
+16,"Python Pandas Tutorial (Part 3): Indexes - How to Set, Reset, and Use Indexes",13-01-2020,359268,8928,0,191,Jan
+17,Python Pandas Tutorial (Part 2): DataFrame and Series Basics - Selecting Rows and Columns,10-01-2020,575039,13473,0,355,Jan
+18,Python Pandas Tutorial (Part 1): Getting Started with Data Analysis - Installation and Loading Data,09-01-2020,1226772,19472,0,544,Jan
+19,Python Tutorial: Zip Files - Creating and Extracting Zip Archives,19-11-2019,116510,1888,0,118,Nov
+20,Python Data Science Tutorial: Analyzing the 2019 Stack Overflow Developer Survey,17-10-2019,59050,1525,0,145,Oct
+21,Python Multiprocessing Tutorial: Run Code in Parallel Using the Multiprocessing Module,20-09-2019,741423,20119,0,915,Sep
+22,Python Threading Tutorial: Run Code Concurrently Using the Threading Module,12-09-2019,786705,20068,0,718,Sep
+23,"Python Quick Tip: The Difference Between ""=="" and ""is"" (Equality vs Identity)",06-08-2019,113289,4045,0,211,Aug
+24,Python Tutorial: Calling External Commands Using the Subprocess Module,24-07-2019,348330,8535,0,376,Jul
+25,Matplotlib Tutorial (Part 10): Subplots,19-06-2019,225538,5077,0,273,Jun
+26,Matplotlib Tutorial (Part 9): Plotting Live Data in Real-Time,18-06-2019,377543,6805,0,345,Jun
+27,Matplotlib Tutorial (Part 8): Plotting Time Series Data,17-06-2019,172263,3207,0,87,Jun
+28,Matplotlib Tutorial (Part 7): Scatter Plots,16-06-2019,163515,3631,0,115,Jun
+29,Matplotlib Tutorial (Part 6): Histograms,15-06-2019,170689,3689,0,108,Jun
+30,Matplotlib Tutorial (Part 5): Filling Area on Line Plots,14-06-2019,93983,2550,0,94,Jun
+31,Matplotlib Tutorial (Part 4): Stack Plots,13-06-2019,99984,2516,0,75,Jun
+32,Matplotlib Tutorial (Part 3): Pie Charts,12-06-2019,142861,3456,0,93,Jun
+33,Matplotlib Tutorial (Part 2): Bar Charts and Analyzing Data from CSVs,11-06-2019,316597,6331,0,339,Jun
+34,Matplotlib Tutorial (Part 1): Creating and Customizing Our First Plots,10-06-2019,941647,17360,0,566,Jun
+35,Visual Studio Code (Windows) - Setting up a Python Development Environment and Complete Overview,01-05-2019,697710,11241,0,493,May
+36,Visual Studio Code (Mac) - Setting up a Python Development Environment and Complete Overview,01-05-2019,265849,4581,0,262,May
+37,Python Tutorial: Clarifying the Issues with Mutable Default Arguments,24-04-2019,34033,1335,0,87,Apr
+38,5 Common Python Mistakes and How to Fix Them,22-04-2019,281209,7533,0,215,Apr
+39,How I Setup a New Development Machine - Using Scripts to Automate Installs and Save Time,15-04-2019,56318,1275,0,68,Apr
+40,How to Write Python Scripts to Analyze JSON APIs and Sort Results,09-04-2019,155742,3419,0,150,Apr
+41,Homebrew Tutorial: Simplify Software Installation on Mac Using This Package Manager,09-04-2019,190155,3598,0,142,Apr
+42,Python Tutorial: VENV (Windows) - How to Use Virtual Environments with the Built-In venv Module,02-04-2019,529198,11581,0,522,Apr
+43,Python Tutorial: VENV (Mac & Linux) - How to Use Virtual Environments with the Built-In venv Module,02-04-2019,260824,7428,0,229,Apr
+44,10 Python Tips and Tricks For Writing Better Code,25-03-2019,1366693,40024,0,994,Mar
+45,"How to Send Emails Using Python - Plain Text, Adding Attachments, HTML Emails, and More",18-03-2019,449095,9701,0,727,Mar
+46,Python Tutorial: Web Scraping with Requests-HTML,11-03-2019,185598,3425,0,203,Mar
+47,"Python Tutorial: Write a Script to Monitor a Website, Send Alert Emails, and Reboot Servers",04-03-2019,153120,2928,0,103,Mar
+48,"Python Requests Tutorial: Request Web Pages, Download Images, POST Data, Read JSON, and More",26-02-2019,951909,18635,0,503,Feb
+49,Python Django Tutorial: Deploying Your Application (Option #2) - Deploy using Heroku,19-02-2019,278317,4778,0,669,Feb
+50,Python Django Tutorial: Full-Featured Web App Part 13 - Using AWS S3 for File Uploads,18-02-2019,152595,2456,0,468,Feb
+51,Python Django Tutorial: How to enable HTTPS with a free SSL/TLS Certificate using Let's Encrypt,24-01-2019,139871,2286,0,203,Jan
+52,Python Flask Tutorial: How to enable HTTPS with a free SSL/TLS Certificate using Let's Encrypt,24-01-2019,127122,2150,0,160,Jan
+53,Python Django Tutorial: How to Use a Custom Domain Name for Our Application,17-01-2019,125829,1872,0,95,Jan
+54,Python Flask Tutorial: How to Use a Custom Domain Name for Our Application,17-01-2019,103519,1695,0,80,Jan
+55,Python Flask Tutorial: Deploying Your Application (Option #1) - Deploy to a Linux Server,20-12-2018,333084,5568,0,653,Dec
+56,Python Django Tutorial: Deploying Your Application (Option #1) - Deploy to a Linux Server,13-12-2018,407843,6330,0,851,Dec
+57,Python Tutorial: Itertools Module - Iterator Functions for Efficient Looping,13-11-2018,217370,5810,0,232,Nov
+58,Python Coding Problem: Creating Your Own Iterators,24-10-2018,63438,2710,0,223,Oct
+59,Python Tutorial: Iterators and Iterables - What Are They and How Do They Work?,24-10-2018,359472,10788,0,314,Oct
+60,Python Tutorial: Pipenv - Easily Manage Packages and Virtual Environments,17-10-2018,232383,5552,0,284,Oct
+61,Python Django Tutorial: Full-Featured Web App Part 12 - Email and Password Reset,31-08-2018,214681,5227,0,1146,Aug
+62,Python Django Tutorial: Full-Featured Web App Part 11 - Pagination,31-08-2018,216239,5556,0,527,Aug
+63,"Python Django Tutorial: Full-Featured Web App Part 10 - Create, Update, and Delete Posts",31-08-2018,349743,7554,0,764,Aug
+64,Python Django Tutorial: Full-Featured Web App Part 9 - Update User Profile,31-08-2018,274310,7029,0,659,Aug
+65,Python Django Tutorial: Full-Featured Web App Part 8 - User Profile and Picture,31-08-2018,407867,9323,0,1115,Aug
+66,Python Django Tutorial: Full-Featured Web App Part 7 - Login and Logout System,31-08-2018,453002,10515,0,526,Aug
+67,Python Django Tutorial: Full-Featured Web App Part 6 - User Registration,31-08-2018,604110,12807,0,1232,Aug
+68,Python Django Tutorial: Full-Featured Web App Part 5 - Database and Migrations,31-08-2018,639766,14980,0,920,Aug
+69,Python Django Tutorial: Full-Featured Web App Part 4 - Admin Page,31-08-2018,404341,12087,0,316,Aug
+70,Python Django Tutorial: Full-Featured Web App Part 3 - Templates,31-08-2018,852564,20234,0,1444,Aug
+71,Python Django Tutorial: Full-Featured Web App Part 2 - Applications and Routes,31-08-2018,808022,20943,0,816,Aug
+72,Python Django Tutorial: Full-Featured Web App Part 1 - Getting Started,31-08-2018,2093685,30753,0,1040,Aug
+73,Best Sublime Text Features and Shortcuts (Windows),09-08-2018,30633,755,0,49,Aug
+74,Best Sublime Text Features and Shortcuts (Mac),09-08-2018,23308,460,0,25,Aug
+75,Python Tutorial: How to Set the Path and Switch Between Different Versions/Executables (Windows),26-07-2018,186850,3399,0,138,Jul
+76,Python Tutorial: How to Set the Path and Switch Between Different Versions/Executables (Mac & Linux),26-07-2018,169811,3082,0,160,Jul
+77,Python Quick Tip: F-Strings - How to Use Them and Advanced String Formatting,12-07-2018,189973,6619,0,218,Jul
+78,"Big Announcements, Video Updates, and Future Plans",26-06-2018,62601,6222,0,785,Jun
+79,Python Tutorial: Sets - Set Methods and Operations to Solve Common Problems,20-06-2018,132659,4194,0,174,Jun
+80,Python Flask Tutorial: Full-Featured Web App Part 12 - Custom Error Pages,04-05-2018,104173,2858,0,262,May
+81,Python Flask Tutorial: Full-Featured Web App Part 11 - Blueprints and Configuration,04-05-2018,176348,3617,0,472,May
+82,Python Flask Tutorial: Full-Featured Web App Part 10 - Email and Password Reset,04-05-2018,161717,3332,0,626,May
+83,Python Flask Tutorial: Full-Featured Web App Part 9 - Pagination,04-05-2018,157838,3876,0,292,May
+84,"Python Flask Tutorial: Full-Featured Web App Part 8 - Create, Update, and Delete Posts",04-05-2018,226824,4519,0,312,May
+85,Python Flask Tutorial: Full-Featured Web App Part 7 - User Account and Profile Picture,04-05-2018,239306,5181,0,461,May
+86,Python Flask Tutorial: Full-Featured Web App Part 6 - User Authentication,04-05-2018,386597,7614,0,700,May
+87,Python Flask Tutorial: Full-Featured Web App Part 5 - Package Structure,04-05-2018,324955,7971,0,500,May
+88,Python Flask Tutorial: Full-Featured Web App Part 4 - Database with Flask-SQLAlchemy,04-05-2018,643356,11193,0,971,May
+89,Python Flask Tutorial: Full-Featured Web App Part 3 - Forms and User Input,04-05-2018,717553,12981,0,1174,May
+90,Python Flask Tutorial: Full-Featured Web App Part 2 - Templates,04-05-2018,839364,19010,0,867,May
+91,Python Flask Tutorial: Full-Featured Web App Part 1 - Getting Started,04-05-2018,1834463,29310,0,956,May
+92,Linux/Mac Terminal Tutorial: The Grep Command - Search Files and Directories for Patterns of Text,07-03-2018,340751,8693,0,237,Mar
+93,How to Run Linux/Bash on Windows 10 Using the Built-In Windows Subsystem for Linux,21-02-2018,489522,9693,0,479,Feb
+94,Python Quick Tip: Hiding Passwords and Secret Keys in Environment Variables (Windows),01-02-2018,162527,5761,0,224,Feb
+95,Python Quick Tip: Hiding Passwords and Secret Keys in Environment Variables (Mac & Linux),01-02-2018,156785,4254,0,252,Feb
+96,"Python Tutorial: Calculate Number of Days, Weeks, or Months to Reach Specific Goals",18-01-2018,64263,1135,0,43,Jan
+97,Python Tutorial: Context Managers - Efficiently Managing Resources,20-12-2017,176250,5863,0,166,Dec
+98,Channel Update: Look Back on the Year and Big Plans for 2018,18-12-2017,6319,503,0,67,Dec
+99,Python Tutorial: Working with JSON Data using the json Module,20-11-2017,1105005,23348,0,735,Nov
+100,Python Tutorial: Web Scraping with BeautifulSoup and Requests,08-11-2017,1092810,23561,0,1119,Nov
+101,Python Tutorial: re Module - How to Write and Match Regular Expressions (Regex),24-10-2017,1064036,26081,0,1206,Oct
+102,Linux/Mac Terminal Tutorial: How To Use The rsync Command - Sync Files Locally and Remotely,10-10-2017,168073,4972,0,179,Oct
+103,Regular Expressions (Regex) Tutorial: How to Match Any Pattern of Text,05-10-2017,1255823,36342,0,1913,Oct
+104,5 Essential Skills Every Well-Rounded Programmer Should Know,19-09-2017,246429,8675,0,206,Sep
+105,Corey Schafer Live Stream,15-09-2017,0,0,0,0,Sep
+106,"Python Tutorial: How I Manage Multiple Projects, Virtual Environments, and Environment Variables",06-09-2017,139695,2268,0,81,Sep
+107,Python Tutorial: Generate Random Numbers and Data Using the random Module,29-08-2017,470869,10529,0,419,Aug
+108,Linux/Mac Tutorial: Cron Jobs - How to Schedule Commands with crontab,23-08-2017,242214,6191,0,270,Aug
+109,Python Tutorial: Unit Testing Your Code with the unittest Module,16-08-2017,1283557,24605,0,677,Aug
+110,"Python Tutorial: CSV Module - How to Read, Parse, and Write CSV Files",09-08-2017,1210480,20260,0,726,Aug
+111,Linux/Mac Tutorial: SSH Key-Based Authentication - How to SSH Without a Password,02-08-2017,312915,6160,0,258,Aug
+112,Python Tutorial: Real World Example - Parsing Names From a CSV to an HTML List,26-07-2017,165309,3656,0,146,Jul
+113,How to Create a Network of Machines in VirtualBox with SSH Access,20-07-2017,130776,1978,0,122,Jul
+114,VirtualBox: How to Use Snapshots,12-07-2017,59999,993,0,43,Jul
+115,Python Tutorial for Beginners 9: Import Modules and Exploring The Standard Library,17-05-2017,807639,17267,0,606,May
+116,Python Tutorial for Beginners 8: Functions,17-05-2017,1071060,21647,0,771,May
+117,Python Tutorial for Beginners 7: Loops and Iterations - For/While Loops,17-05-2017,816217,19772,0,493,May
+118,"Python Tutorial for Beginners 6: Conditionals and Booleans - If, Else, and Elif Statements",17-05-2017,608734,15425,0,451,May
+119,Python Tutorial for Beginners 5: Dictionaries - Working with Key-Value Pairs,17-05-2017,1390716,32625,0,812,May
+120,"Python Tutorial for Beginners 4: Lists, Tuples, and Sets",17-05-2017,1380773,34247,0,1107,May
+121,Python Tutorial for Beginners 3: Integers and Floats - Working with Numeric Data,17-05-2017,725578,19017,0,418,May
+122,Python Tutorial for Beginners 2: Strings - Working with Textual Data,17-05-2017,1487879,33546,0,1073,May
+123,Python Tutorial for Beginners 1: Install and Setup for Mac and Windows,17-05-2017,2991295,35058,0,1149,May
+124,"Python SQLite Tutorial: Complete Overview - Creating a Database, Table, and Running Queries",18-04-2017,934203,16178,0,569,Apr
+125,"Channel Update: Code Snippets, New Rewards, and Playlists",17-04-2017,3806,156,0,24,Apr
+126,Python Tutorial: Decorators With Arguments,27-03-2017,95785,2835,0,115,Mar
+127,"Python Tutorial: Logging Advanced - Loggers, Handlers, and Formatters",15-03-2017,321553,9154,0,264,Mar
+128,"Python Tutorial: Logging Basics - Logging to Files, Setting Levels, and Formatting",15-03-2017,508615,12714,0,298,Mar
+129,Setting up a Python Development Environment in Sublime Text,15-02-2017,1024006,12810,0,881,Feb
+130,Setting up a Python Development Environment in Atom,15-02-2017,646133,9742,0,634,Feb
+131,Python Tutorial: Variable Scope - Understanding the LEGB rule and global/nonlocal statements,20-12-2016,340272,10473,0,353,Dec
+132,"Frequently Asked Questions #1: Text Editors, Books, Career Advice, and More",15-11-2016,40796,1511,0,70,Nov
+133,"Jupyter Notebook Tutorial: Introduction, Setup, and Walkthrough",22-09-2016,1981220,30014,0,885,Sep
+134,"Python OOP Tutorial 6: Property Decorators - Getters, Setters, and Deleters",19-08-2016,941271,31304,0,939,Aug
+135,Python Tutorial: Anaconda - Installation and Using Conda,10-08-2016,1102388,10613,0,293,Aug
+136,Python OOP Tutorial 5: Special (Magic/Dunder) Methods,08-08-2016,814626,25277,0,524,Aug
+137,"Python Tutorial: Datetime Module - How to work with Dates, Times, Timedeltas, and Timezones",02-08-2016,504666,9427,0,392,Aug
+138,How to Install Kali Linux 2016 on VirtualBox with Guest Additions,01-08-2016,3560,97,0,12,Aug
+139,Linux/Mac Terminal Tutorial: How To Use The find Command,27-07-2016,188313,6051,0,238,Jul
+140,Python OOP Tutorial 4: Inheritance - Creating Subclasses,25-07-2016,1284071,39264,0,1218,Jul
+141,Python OOP Tutorial 3: classmethods and staticmethods,11-07-2016,1506721,42565,0,1102,Jul
+142,Python OOP Tutorial 2: Class Variables,23-06-2016,1669503,57611,0,1551,Jun
+143,Python OOP Tutorial 1: Classes and Instances,20-06-2016,4252273,110368,0,3713,Jun
+144,Linux/Mac Terminal Tutorial: How To Use The cURL Command,09-06-2016,189837,3744,0,78,Jun
+145,How to Install Ubuntu 16.04 LTS on VirtualBox with Guest Additions,31-05-2016,10048,282,0,16,May
+146,"Channel Update: 5000 Subscribers, Future Tutorials, and Giveaway",03-05-2016,3054,115,0,30,May
+147,Python Tutorial: File Objects - Reading and Writing to Files,29-04-2016,1714749,25325,0,881,Apr
+148,Python Tutorial: OS Module - Use Underlying Operating System Functionality,06-04-2016,878533,17099,0,619,Apr
+149,Python Tutorial: Decorators - Dynamically Alter The Functionality Of Your Functions,04-04-2016,892004,19282,0,993,Apr
+150,"Python Tutorial: String Formatting - Advanced Operations for Dicts, Lists, Numbers, and Dates",10-03-2016,306969,6092,0,212,Mar
+151,Programming Terms: Closures - How to Use Them and Why They Are Useful,08-03-2016,366247,8311,0,308,Mar
+152,JavaScript Tutorial: Run JavaScript in Sublime Text with a NodeJS Build System,18-02-2016,159924,1348,0,119,Feb
+153,Python Tutorial: Custom Sublime Text Build Systems,18-02-2016,113817,1220,0,148,Feb
+154,Programming Terms: First-Class Functions,11-02-2016,272367,8387,0,474,Feb
+155,"Python Tutorial: Duck Typing and Asking Forgiveness, Not Permission (EAFP)",09-02-2016,126318,3839,0,154,Feb
+156,Customizing Your Terminal: How To Use and Modify Dotfiles,05-02-2016,52756,1240,0,65,Feb
+157,Customizing Your Terminal: Adding Color and Information to Your Prompt,05-02-2016,201422,3011,0,173,Feb
+158,Customizing Your Terminal: .bash_profile and .bashrc files,05-02-2016,267881,3319,0,171,Feb
+159,"Linux/Mac Terminal Tutorial: Create, Copy, Move, Rename and Delete Files and Directories",21-01-2016,173812,2337,0,100,Jan
+160,Python Tutorial: Automate Parsing and Renaming of Multiple Files,23-12-2015,423649,12870,0,797,Dec
+161,"Python Tutorial: Sorting Lists, Tuples, and Objects",15-12-2015,257977,5280,0,223,Dec
+162,Python Tutorial: Image Manipulation with Pillow,17-11-2015,383693,5374,0,234,Nov
+163,Welcome to my Channel,16-11-2015,587640,794,0,62,Nov
+164,Python Tutorial: Using Try/Except Blocks for Error Handling,13-11-2015,651710,13496,0,476,Nov
+165,Python Tutorial: Slicing Lists and Strings,29-10-2015,413385,7854,0,281,Oct
+166,Programming Terms: Memoization,28-10-2015,68509,2431,0,93,Oct
+167,SQL Tutorial for Beginners 5: UPDATE and DELETE - Modifying and Removing Records from Your Database,27-10-2015,55221,1059,0,54,Oct
+168,SQL Tutorial for Beginners 4: SELECT - Retrieving Records from Your Database,27-10-2015,93174,1365,0,22,Oct
+169,Git Tutorial: Fixing Common Mistakes and Undoing Bad Commits,26-10-2015,376347,8539,0,269,Oct
+170,Setting up a Python Development Environment in Eclipse,25-10-2015,176952,1315,0,108,Oct
+171,Mac Tip: New Split Screen Feature in El Capitan,24-10-2015,17443,162,0,6,Oct
+172,Python: Ex Machina Easter Egg - Hidden Message within the Code,23-10-2015,29367,739,0,16,Oct
+173,Linux/Mac Terminal Tutorial: Navigating your Filesystem,21-10-2015,166189,2253,0,48,Oct
+174,SQL Tutorial for Beginners 3: INSERT - Adding Records to Your Database,13-10-2015,79986,1066,0,24,Oct
+175,SQL Tutorial for Beginners 2: Creating Your First Table,13-10-2015,157568,1580,0,40,Oct
+176,SQL Tutorial for Beginners 1: Installing PostgreSQL and Creating Your First Database,13-10-2015,495982,4240,0,169,Oct
+177,Preparing for a Python Interview: 10 Things You Should Know,11-10-2015,950956,18855,0,519,Oct
+178,"Git Tutorial: Difference between ""add -A"", ""add -u"", ""add ."", and ""add *""",22-09-2015,50441,1505,0,64,Sep
+179,Programming Terms: Combinations and Permutations,12-09-2015,47895,1199,0,48,Sep
+180,Chrome Quick Tip: Quickly Bookmark Open Tabs for Later Viewing,31-08-2015,5039,52,0,6,Aug
+181,Python Tutorial: Comprehensions - How they work and why you should be using them,24-08-2015,505485,12806,0,487,Aug
+182,Python Tutorial: Generators - How to use them and the benefits you receive,17-08-2015,832065,19874,0,653,Aug
+183,Quickest and Easiest Way to Run a Local Web-Server,10-08-2015,119864,1147,0,65,Aug
+184,Git Tutorial for Beginners: Command-Line Fundamentals,03-08-2015,2165860,36868,0,1600,Aug
+185,Mac OS X Terminal Tutorial: Time-Saving Keyboard Shortcuts,27-07-2015,33384,931,0,30,Jul
+186,Overview of Online Learning Resources,15-07-2015,36653,1219,0,62,Jul
+187,Python Tutorial: Else Clauses on Loops,09-07-2015,45609,1419,0,43,Jul
+188,Programming Terms: Mutable vs Immutable,08-07-2015,99257,2686,0,120,Jul
+189,Python Tutorial: Namedtuple - When and why should you use namedtuples?,07-07-2015,105169,2917,0,103,Jul
+190,Programming Terms: Idempotence,23-06-2015,44554,1267,0,43,Jun
+191,Programming Terms: String Interpolation,22-06-2015,30848,1010,0,40,Jun
+192,Programming Terms: DRY (Don't Repeat Yourself),16-06-2015,45643,1243,0,23,Jun
+193,Python Tutorial: str() vs repr(),15-06-2015,121782,3235,0,79,Jun
+194,Sublime Text Quick Tip: Launch Sublime Text from the Terminal,12-05-2015,16367,233,0,40,May
+195,Git Tutorial: Change DiffMerge Font-Size on Mac OSX,28-04-2015,20974,227,0,7,Apr
+196,Git Tutorial: Diff and Merge Tools,28-04-2015,135878,1285,0,52,Apr
+197,"How Software Engineers, Developers, and Designers can volunteer their skills",27-04-2015,17546,599,0,23,Apr
+198,Git Tutorial: Using the Stash Command,17-04-2015,227019,4874,0,179,Apr
+199,Python Tutorial: pip - An in-depth look at the package management system,16-04-2015,238573,3775,0,168,Apr
+200,Python Tutorial: virtualenv and why you should use virtual environments,14-04-2015,785292,12323,0,545,Apr
+201,Easily Resize Multiple Images Using the Mac Terminal,04-04-2015,9902,196,0,13,Apr
+202,Easily Resize Multiple Images Using Picasa,04-04-2015,3308,11,0,1,Apr
+203,"How to quickly create favicons for the desktop, Apple/Android devices, tablets, and more",03-04-2015,3251,54,0,5,Apr
+204,"Sublime Text Quick Tip: ""Go To Definition"" Click Shortcut",31-03-2015,21500,143,0,22,Mar
+205,Python Tutorial: if __name__ == '__main__',23-03-2015,2012136,55979,0,1631,Mar
+206,"JavaScript Arrays: Properties, Methods, and Manipulation (Part 6 of 7)",18-03-2015,4555,74,0,4,Mar
+207,"JavaScript Arrays: Properties, Methods, and Manipulation (Part 2 of 7)",18-03-2015,9690,112,0,5,Mar
+208,"JavaScript Arrays: Properties, Methods, and Manipulation (Part 3 of 7)",18-03-2015,6707,83,0,3,Mar
+209,"JavaScript Arrays: Properties, Methods, and Manipulation (Part 4 of 7)",18-03-2015,5826,86,0,4,Mar
+210,"JavaScript Arrays: Properties, Methods, and Manipulation (Part 5 of 7)",18-03-2015,5276,73,0,4,Mar
+211,"JavaScript Arrays: Properties, Methods, and Manipulation (Part 1 of 7)",18-03-2015,35207,342,0,23,Mar
+212,"JavaScript Arrays: Properties, Methods, and Manipulation (Part 7 of 7)",18-03-2015,5754,130,0,20,Mar
+213,CSS Tips and Tricks: Add External URLs to Print Stylesheets,29-12-2014,6467,53,0,3,Dec
+214,Mac Tip: Adding Folder Stacks to the Dock,22-12-2014,26695,221,0,21,Dec
+215,"Understanding Binary, Hexadecimal, Decimal (Base-10), and more",15-12-2014,177824,3720,0,203,Dec
+216,"Sublime Text 3: Setup, Package Control, and Settings",26-11-2014,448599,2525,0,302,Nov
+217,WordPress Tips: Test your theme with Theme Unit Test and Monster Widget,26-11-2014,7852,98,0,2,Nov
+218,WordPress Plugins: Imsanity,23-11-2014,19970,125,0,11,Nov
+219,Mac Tip: Ways to perform Screen Capturing and Screenshots,13-11-2014,4341,93,0,4,Nov
+220,Paver Patio Time Lapse,07-11-2014,31252,784,0,38,Nov
+221,ArcGIS API for JavaScript Part 2: Starting Templates,28-10-2014,28373,242,0,15,Oct
+222,Linux/Mac Terminal Tutorial: Creating Aliases for Commands,01-08-2014,40125,553,0,37,Aug
+223,Mac Tip: Windows' Snapping Feature on Mac with HyperDock,01-08-2014,9397,79,0,8,Aug
+224,ArcGIS API for JavaScript Part 1: Our First Web Map,23-07-2014,74024,556,0,29,Jul
+225,"Sublime Text 2: Setup, Package Control, and Settings",20-07-2014,46470,216,0,27,Jul
+226,Using Font Awesome in Desktop Applications (OS X),15-07-2014,38131,157,0,10,Jul
+227,Web fonts using CSS Font Face,02-07-2014,11522,96,0,12,Jul
+228,Lab Puppy playing fetch in a lake,25-04-2014,13528,443,0,19,Apr
+229,Lab Puppy playing fetch in a creek,25-04-2014,12859,285,0,6,Apr
+230,If I'm running even 1 minute late for my dog's morning walk...,25-04-2014,75317,1647,0,72,Apr
+231,Lab Puppy Diving in Snow,22-03-2014,27846,534,0,17,Mar
+232,Lab puppy playing in bath tub,20-01-2014,26893,767,0,39,Jan
